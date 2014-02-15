@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">LIANE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Reglage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading">En cours de chargement&#8230;</string>
+    <string name="title">Titre</string>
+    <string name="date">Date</string>
+    <string name="desc">Description </string>
+    <string name="linkLabel">Lien: </string>
+    <string name="linkText">Lien : </string>
+
+</resources>
